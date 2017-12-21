@@ -1,0 +1,23 @@
+{
+  "name": "puppeteer-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbIkola/puppeteer-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbIkola/puppeteer-starter/issues"
+  },
+  "homepage": "https://github.com/mbIkola/puppeteer-starter#readme",
+  "dependencies": {
+    "puppeteer": "^0.13.0"
+  }
+}
